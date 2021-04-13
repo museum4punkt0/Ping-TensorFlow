@@ -51,11 +51,11 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 [![LICENSE.md](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/museum4punkt0/Mein-Objekt-Backend/blob/master/LICENSE.md)
 
-[https://www.tensorflow.org/](Tensorflow) ist unter Apache 2.0 lizensiert.
+[Tensorflow](https://www.tensorflow.org/) ist unter Apache 2.0 lizensiert.
 
-[https://tfhub.dev/](Tensorflow models) sind unter Apache 2.0 lizensiert.
+[Tensorflow models](https://tfhub.dev/) sind unter Apache 2.0 lizensiert.
  
