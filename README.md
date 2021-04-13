@@ -56,5 +56,6 @@ You should have received a copy of the GNU General Public License along with thi
 [![LICENSE.md](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/museum4punkt0/Mein-Objekt-Backend/blob/master/LICENSE.md)
 
 [https://www.tensorflow.org/](Tensorflow) ist unter Apache 2.0 lizensiert.
+
 [https://tfhub.dev/](Tensorflow models) sind unter Apache 2.0 lizensiert.
  
