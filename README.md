@@ -42,6 +42,12 @@ You can generate both mobile or backend graphs with files is directories of this
     --input_height=224
 
  ## Done.
+ 
+# Markenname
+
+„Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss. Die Marke kann von anderen gemeinnützigen Körperschaften für Software genutzt werden, die auf dem veröffentlichten Code (Repositorium) basiert. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
+
+    „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss.
   
 # Lizenz 
 
